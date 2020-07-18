@@ -1,0 +1,27 @@
+{
+    "skaters":[
+        {
+            "name":"",
+            "age":"",
+            "sponsors":"",
+            "bio":"",
+            "image":"",
+            "xgamesGold":0,
+            "xgamesSilver":0,
+            "xgamesBronse":0,
+            "dTGold":0,
+            "dTSilver":0,
+            "dTBronse":0,
+            "sLGold":0,
+            "sLSilver":0,
+            "sLBronse":0,
+            "batb":0,
+            "sSGold":0,
+            "sSSilver":0,
+            "sSBronse":0,
+            "vpsGold":0,
+            "vpsSilver":0,
+            "vpsBronse":0,
+        }
+    ]
+}
