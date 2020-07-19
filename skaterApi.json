@@ -1,27 +1,17 @@
 {
     "skaters":[
         {
-            "name":"",
-            "age":"",
-            "sponsors":"",
-            "bio":"",
-            "image":"",
-            "xgamesGold":0,
-            "xgamesSilver":0,
-            "xgamesBronse":0,
+            "name":"Tony Hawk",
+            "age":"52",
+            "sponsors":"Birdhouse, Vans, Independent, Bones, and Nixon",
+            "bio":"Tony Hawk was born on May 12, 1968 in San Diego, California to Nancy (1925–2019) and Frank Peter Rupert Hawk (d. 1995), and was raised in San Diego. He has two older sisters, Pat and Lenore, and an older brother, Steve",
+            "image":"https://i.insider.com/5ebc461a204ad3156f66f619?width=1136&format=jpeg",
+            "xgamesGold":10,
             "dTGold":0,
-            "dTSilver":0,
-            "dTBronse":0,
             "sLGold":0,
-            "sLSilver":0,
-            "sLBronse":0,
             "batb":0,
-            "sSGold":0,
-            "sSSilver":0,
-            "sSBronse":0,
-            "vpsGold":0,
-            "vpsSilver":0,
-            "vpsBronse":0,
+            "sSGold":0, 
+            "vpsGold":0
         }
     ]
 }
